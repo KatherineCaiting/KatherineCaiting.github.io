@@ -1,0 +1,260 @@
+.container {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header-container {
+    background:  url(../image/headerbg.jpg) no-repeat top;
+    height: 220px;
+}
+
+.header {
+    background: url(../image/yanglogo.jpg) no-repeat;
+    height: 220px;
+    padding-left: 500px;
+    padding-top: 70px;
+}
+
+.header h1 {
+    color: #fff;
+    font-family:  "Microsoft YaHei";
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.nav-box {
+    background: #eee;
+    width: 100%;
+    margin: 0 auto;
+	text-align: center;
+}
+
+.nav-pills {
+    margin-bottom: auto;
+    margin-top: auto;
+}
+
+a {
+    font-family: "Microsoft YaHei";
+}
+
+
+.navbar-header ul li a{
+	color: gray;
+	font-size: 13px;
+}
+
+.navbar-header li a:hover{
+	color:#006986;
+}
+
+.dropdown-menu{
+	width: 100%;
+	background-color: #006986;
+	margin: 0 auto;
+}
+
+.dropdown-menu li a{
+	padding: 2% 10% 2% 10%;
+	text-align: center; 
+}
+
+
+#logo1{
+	background: url(../image/logo1.jpg) no-repeat; 
+}
+
+ h1{
+	display: inline;
+	padding-left:35px;
+	font-weight: bold;
+}
+
+.more{
+   background:url(../image/more.jpg) no-repeat;
+   width:70px; 
+   height: 45px;
+   float: right;
+   overflow: hidden;
+   display: block;
+  
+}
+
+.line{
+	border-top: 2px solid #006986;
+	margin-top: 10px;
+	overflow: hidden;
+	line-height: 100%;
+}
+
+.line li{
+	height: 50px;
+	line-height: 50px;
+	display: block;
+	background: url(../image/point.jpg) no-repeat 0 center;
+	display: block;
+}
+
+.line li a{
+	padding-left: 20px;
+	font-size: 18px;
+	overflow: hidden;
+	text-indent: 18px;
+}
+
+h2{
+    padding-left: 40px;
+}
+
+h2 span{
+	font-size: 17px;
+	color: #0384A8;
+	height: 50px;
+}
+
+.num{
+	margin-left: 20%;
+	overflow: hidden;
+}
+
+#logo2 {
+    background: url(../image/logo2.jpg) no-repeat;
+}
+
+
+#logo3 {
+    background: url(../image/logo3.jpg) no-repeat ;
+}
+
+
+#logo4 {
+    background: url(../image/logo4.jpg) no-repeat ;
+}
+
+
+#image-box{
+    border: 1px solid #000;
+}
+
+#image-box h3{
+	font-size: 15px;
+	font-weight: bold;
+	text-align: center;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+#image-box ul li{
+	width: auto;
+	height: 50px;
+	padding-top: 17px;
+	padding-bottom: 17px;
+	text-decoration: none;
+}
+
+
+.image-word{
+     position: relative;
+	 height: 50px;
+	 margin: 0 auto;
+	 overflow: hidden;
+}
+
+.image-word ul{
+	position: relative;
+}
+
+.inner{
+	margin: 0 auto;
+}
+
+.inner li{
+	list-style-type: none;
+	
+}
+
+#carousel1{
+	margin: 6px 6px 0px 6px; 
+}
+
+#label h3{
+	font-size: 20px;
+	text-align: center;
+	font-weight: bold;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	margin-top: 0px;
+}
+
+.list li{
+	list-style-type: none;
+	background: url(../image/point.jpg) no-repeat 0 center;	
+}
+
+#label p{
+	font-size: 18px;
+	text-align: left;
+	text-indent: 2.5em;
+}
+
+
+#foot-container{
+	background: #006986;
+    width: 100%;
+	
+}
+
+.inside{
+	margin: auto;
+	float: none;
+	text-align: center;
+	padding: 10px 0px;
+}
+
+.inside p{
+	color: #FFF;
+	font-weight: bold;
+}
+
+@media screen and (min-width: 1200px) {
+    .nav-box .nav-pills li {
+        line-height: 30px;
+		background: #fff;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .header {
+        background: url(../image/yanglogo.jpg) no-repeat;
+        padding-top: 45px;
+		padding-left: 250px;
+        height: 170px;
+        background-size: 240px 170px;
+    }
+    .header h1 {
+        color: #0384A8;
+    }
+    .header-container {
+        background: #FFF;
+        height: 170px;
+    }
+   
+}
+
+
+
+@media screen and (max-width: 992px) {
+    .header-container {
+        background: #fff;
+    }
+    h1 {
+        font-size: 42px;
+        text-shadow: 0 0 0 #000;
+        filter: none;
+    }
+    .header {
+        padding-left: 200px;
+    }
+}
+

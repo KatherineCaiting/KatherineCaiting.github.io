@@ -68,7 +68,7 @@ body{
     width: 470px;
     height: 400px;
     float:left;
-    margin-left: 20px; 
+    margin-left: auto; 
    }
 
 .logo1{
@@ -130,7 +130,7 @@ body{
     width: 840px;
     height: 400px;
     float:right;
-    margin-right:60px;
+    margin-right:auto;
     }
 
 .logo3{
@@ -197,7 +197,7 @@ body{
     width: 560px;
     height: 380px;
     float:left;
-    margin-left:20px;
+    margin-left:auto;
     padding: 0px auto;
     }
         
@@ -256,7 +256,7 @@ body{
     float: right;
     width: 150px;
     height: 370px;
-    margin-right: 70px;
+    margin-right: 10px;
     border: 1px solid black;
 }
 

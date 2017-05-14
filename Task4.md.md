@@ -1,4 +1,4 @@
-﻿#**Task4 summary**
+﻿## **Task4 summary**
 
 ------
 ## **前言**
@@ -156,10 +156,11 @@
 ![57][57]<br/>
 13、再如上发布一次新闻，浏览<br/>
 ![58][58]<br/>
-14、同上，新建一个“位置导航”，将标签插到三个文件中<br/>
+14、同上，新建一个“位置导航”，将标签插到三个文件中<br/>**粗体文本**
 ![59][59]![60][60]![61][61]
-15、确定无误后，浏览并修改，如图：
-![62][62]![63][63]![64][64]
+15、确定无误后，浏览并修改，如图：<br/>
+![62][62]<br/>
+![63][63]![64][64]
 
  
 
@@ -211,8 +212,8 @@
   [34]: http://c.hiphotos.baidu.com/image/pic/item/faf2b2119313b07e402fb71606d7912397dd8c1a.jpg
   [35]: http://d.hiphotos.baidu.com/image/pic/item/71cf3bc79f3df8dc325c6f8fc711728b4710284f.jpg
   [36]: http://a.hiphotos.baidu.com/image/pic/item/11385343fbf2b211135f6a50c08065380cd78ebf.jpg
-  [37]: http://c.hiphotos.baidu.com/image/pic/item/6c224f4a20a446235b764f7c9222720e0cf3d774.jpg
-  [38]: http://b.hiphotos.baidu.com/image/pic/item/2cf5e0fe9925bc31edd3eb8654df8db1cb137026.jpg
+  [37]: http://e.hiphotos.baidu.com/image/pic/item/d058ccbf6c81800ae552190abb3533fa828b477b.jpg
+  [38]: http://b.hiphotos.baidu.com/image/pic/item/42a98226cffc1e17dbc41f354090f603738de9bf.jpg
   [39]: http://g.hiphotos.baidu.com/image/pic/item/8435e5dde71190efe8a445c1c41b9d16fdfa6055.jpg
   [40]: http://c.hiphotos.baidu.com/image/pic/item/eaf81a4c510fd9f9b5aa82772f2dd42a2834a46b.jpg
   [41]: http://h.hiphotos.baidu.com/image/pic/item/f9dcd100baa1cd11a562a33eb312c8fcc2ce2ddc.jpg
@@ -232,10 +233,10 @@
   [55]: http://a.hiphotos.baidu.com/image/pic/item/29381f30e924b899b16ab62664061d950a7bf65e.jpg
   [56]: http://d.hiphotos.baidu.com/image/pic/item/63d9f2d3572c11df8a73713d692762d0f703c20a.jpg
   [57]: http://g.hiphotos.baidu.com/image/pic/item/7dd98d1001e93901577b442071ec54e736d196b7.jpg
-  [58]: http://d.hiphotos.baidu.com/image/pic/item/11385343fbf2b211c80c4f50c08065380cd78e8a.jpg
+  [58]: http://a.hiphotos.baidu.com/image/pic/item/024f78f0f736afc331ccac61b919ebc4b64512f5.jpg
   [59]: http://a.hiphotos.baidu.com/image/pic/item/4610b912c8fcc3ce0308fc2c9845d688d53f20e0.jpg
   [60]: http://d.hiphotos.baidu.com/image/pic/item/574e9258d109b3de0752d077c6bf6c81800a4c3b.jpg
   [61]: http://g.hiphotos.baidu.com/image/pic/item/79f0f736afc37931e4a2b236e1c4b74542a911e2.jpg
-  [62]: http://d.hiphotos.baidu.com/image/pic/item/54fbb2fb43166d22640e238b4c2309f79052d2b7.jpg
+  [62]: http://c.hiphotos.baidu.com/image/pic/item/6a600c338744ebf88085f63bd3f9d72a6059a73a.jpg
   [63]: http://a.hiphotos.baidu.com/image/pic/item/f9dcd100baa1cd11ca4a443fb312c8fcc3ce2d34.jpg
   [64]: http://g.hiphotos.baidu.com/image/pic/item/cdbf6c81800a19d82222b51a39fa828ba61e468f.jpg
